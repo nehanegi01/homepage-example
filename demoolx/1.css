@@ -1,0 +1,49 @@
+#s1{
+    margin-right: 200px;
+    margin-left: 200px;
+    height:550px; 
+}
+#s11{ 
+    height: 20%;
+    display:flex;
+}
+#s12{
+    height: 13%;
+    background-color: rgb(104, 104, 236);
+    padding: 15px;
+    display:flex;
+    color: rgb(104, 104, 236);
+    }
+
+#s13{height: 65%;
+    padding:20px;
+    display:flex;
+}
+#s2{
+    height:200px;
+}
+#s3{
+    height:200px;
+    display:flex;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 30px;
+}
+#s131{
+    width:50%;
+    
+}
+#s33{
+    width:20%;
+    padding:10px;
+}
+#s32{
+    width:20%;
+}
+#s31{
+    width:20%;
+}
+#s13111{
+    width:25%;
+    text-align: center;
+}
